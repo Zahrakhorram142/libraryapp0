@@ -1,0 +1,5 @@
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\LibraryAPP.BaseBackend.csproj.AssemblyReference.cache
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\LibraryAPP.BaseBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\LibraryAPP.BaseBackend.AssemblyInfoInputs.cache
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\LibraryAPP.BaseBackend.AssemblyInfo.cs
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\LibraryAPP.BaseBackend.csproj.CoreCompileInputs.cache

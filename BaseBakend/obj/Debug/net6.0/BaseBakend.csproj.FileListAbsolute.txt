@@ -1,0 +1,12 @@
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\bin\Debug\net6.0\BaseBakend.deps.json
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\bin\Debug\net6.0\BaseBakend.dll
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\bin\Debug\net6.0\BaseBakend.pdb
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.csproj.AssemblyReference.cache
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.AssemblyInfoInputs.cache
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.AssemblyInfo.cs
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.csproj.CoreCompileInputs.cache
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.dll
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\refint\BaseBakend.dll
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\BaseBakend.pdb
+C:\Users\hp 15s\source\repos\LibraryApp\BaseBakend\obj\Debug\net6.0\ref\BaseBakend.dll
